@@ -5,7 +5,7 @@ use std::io::{self, BufReader, Read};
 fn main() {
     let matches = Command::new("ccwc")
         .version("1.0")
-        .author("Seu Nome")
+        .author("Mary")
         .about("Contador de linhas, palavras, caracteres e bytes (tipo 'wc')")
         .arg(
             Arg::new("lines")
