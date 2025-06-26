@@ -7,8 +7,8 @@
 -Caracteres (-m)
 
 <h1>Criando um projeto: </h1>
-1) cargo new ccwc
-2) cd ccwc
+<p>1) cargo new ccwc</p>
+<p>2) cd ccwc</p>
 
 Isso irá gerar:
 meu_projeto/
