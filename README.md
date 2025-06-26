@@ -10,7 +10,8 @@
 <p>1) cargo new ccwc</p>
 <p>2) cd ccwc</p>
 
-<p>Isso irá gerar: <br> meu_projeto/
+<p>Isso irá gerar:
+meu_projeto/
 ├── Cargo.toml         ← arquivo de configuração (dependências, nome, versão, etc.)
 └── src/
     └── main.rs        ← arquivo principal com o código-fonte (ponto de entrada: fn main) </p>
